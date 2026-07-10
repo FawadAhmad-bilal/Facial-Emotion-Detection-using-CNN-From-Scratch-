@@ -6,7 +6,6 @@ A deep learning project that classifies human facial emotions from images using 
 
 This project trains a CNN to classify facial expressions into 7 emotion categories: **Angry, Disgust, Fear, Happy, Neutral, Sad, Surprise**.
 
-
 The model is built entirely from scratch (no pretrained/transfer learning) using TensorFlow/Keras, trained on the FER2013 dataset, and paired with OpenCV-based face detection for testing predictions on live webcam captures. It's designed as the foundation for a larger real-time face analysis pipeline (emotion, age, gender, and face recognition).
 
 ## Dataset
